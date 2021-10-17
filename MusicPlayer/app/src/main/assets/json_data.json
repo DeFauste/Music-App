@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "medialid":"1",
+      "title": "Ice and Snow",
+      "subtitle": "Rafael Krux",
+      "songUrl": "https://freepd.com/music/Ice and Snow.mp3",
+      "imageUrl": "https://www.pelicanwater.com/blog/wp-content/uploads/2019/02/cropped-Snow_Blog_Jan_2019-01.jpg"
+    },
+    {
+      "medialid":"2",
+      "title": "Desert Fox",
+      "subtitle": "Rafael Krux",
+      "songUrl": "https://freepd.com/music/Desert Fox.mp3",
+      "imageUrl": "https://i.natgeofe.com/k/1db1b816-aa92-434e-994f-d3298c9f58f8/fennec-fox-hole.jpg"
+    },
+    {
+      "medialid":"3",
+      "title": "Village Tarantella",
+      "subtitle": "Cartoon",
+      "songUrl": "https://firebasestorage.googleapis.com/v0/b/musicplayer-adb2a.appspot.com/o/Village%20Tarantella.mp3?alt=media&token=606b724d-09f8-4243-a889-e19e33503cfa",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/musicplayer-adb2a.appspot.com/o/ARCmEF.png?alt=media&token=92da4c79-24b5-409e-b389-e804cbe7a393"
+    },
+    {
+      "medialid":"4",
+      "title": "Konosuba",
+      "subtitle": "Isekai",
+      "songUrl": "https://firebasestorage.googleapis.com/v0/b/musicplayer-adb2a.appspot.com/o/Opening%20—%20Konosuba%202.mp3?alt=media&token=e3959a25-f9a3-45ab-b3b7-5358e11ff34f",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/musicplayer-adb2a.appspot.com/o/KonoSuba-Anime-chomusuke-Megumin-5350372.jpeg?alt=media&token=8948a047-e65b-4483-a930-6162653b6164"
+    },
+    {
+      "medialid":"5",
+      "title": "U Got That",
+      "subtitle": "U Got That",
+      "songUrl": "https://firebasestorage.googleapis.com/v0/b/musicplayer-adb2a.appspot.com/o/Little_V_-_U_Got_That_Halogen_Epic_Metal_Cover_63966392.mp3?alt=media&token=51cefe5b-e1fa-4913-99aa-392d9f500105",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/musicplayer-adb2a.appspot.com/o/maxresdefault.jpg?alt=media&token=cae61f18-7677-4009-a06b-99488f370cf1"
+    }
+  ]
+}
