@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         navHostFragment.findNavController().addOnDestinationChangedListener { _, destination, _ ->
-            when(destination.id){
+            when (destination.id) {
                 R.id.songFragment -> hideBottomBar()
                 R.id.homeFragment -> showeBottomBar()
                 else -> showeBottomBar()
